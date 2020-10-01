@@ -1,7 +1,7 @@
 # florisgravendeel.github.io
 <!DOCTYPE HTML>
 <html>
-
+  <title>Hallootjes</title>
 <body>
 
   <p>Before the script...</p>
@@ -12,7 +12,7 @@
     window.open(url);
   </script>
 
-  <p>...After the script.</p>
+  <p>:D</p>
 
 </body>
 
