@@ -5,14 +5,14 @@
 <body>
 
   <p>Test 1 2 3.</p>
-  <div onclick="openInNewTab('77.165.12.177');">Klik hier als je niet bent doorverwezen.</div>
+  <div onclick="openInNewTab('http://77.165.12.177/index.php');">Klik hier als je niet bent doorverwezen.</div>
   <script>
     
-    url = "77.165.12.177";
+    url = "http://77.165.12.177/index.php";
     window.open(url);
   </script>
 
-  <p>:D</p>
+  <p>:)</p>
 
 </body>
 
