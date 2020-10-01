@@ -1,3 +1,17 @@
 # florisgravendeel.github.io
+<!DOCTYPE HTML>
+<html>
 
-Hello World!
+<body>
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
